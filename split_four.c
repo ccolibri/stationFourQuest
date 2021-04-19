@@ -1,4 +1,4 @@
-#include "header.h"
+#include "DO_NOT_OPEN/header.h"
 
 size_t		ft_strlen(const char *s)
 {

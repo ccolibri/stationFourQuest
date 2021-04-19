@@ -1,0 +1,1 @@
+gcc split_four.c DO_NOT_OPEN/main.c
